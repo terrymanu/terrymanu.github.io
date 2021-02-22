@@ -33,7 +33,7 @@
 
 ## Articles
 
-2020.04.21 ALC Beijing 发布文章《[Apache 项目成功孵化案例之 — Apache ShardingSphere 一波三折的心跳之路](https://mp.weixin.qq.com/s/o3TgGVMeSdLp03yW_ZWbyA)》
-2020.04.20 CSDN 发布文章《[GitHub 标星 10,000+，Apache 顶级项目 ShardingSphere 的开源之路](https://mp.weixin.qq.com/s/WroNWdoNZv-dM5GLHFeaWw)》
-2020.04.20 开源中国发布文章《[80%的代码曾由一人提交， Apache ShardingSphere 何以从 ASF 毕业并晋升TLP](https://www.oschina.net/question/4489239_2316036)》
-2020.04.17 InfoQ 发布文章《[ShardingSphere 毕业成为 Apache 顶级项目](https://www.infoq.cn/article/EgR36ml79wYdBxzsUq7B)》
+- 2020.04.21 ALC Beijing 发布文章《[Apache 项目成功孵化案例之 — Apache ShardingSphere 一波三折的心跳之路](https://mp.weixin.qq.com/s/o3TgGVMeSdLp03yW_ZWbyA)》
+- 2020.04.20 CSDN 发布文章《[GitHub 标星 10,000+，Apache 顶级项目 ShardingSphere 的开源之路](https://mp.weixin.qq.com/s/WroNWdoNZv-dM5GLHFeaWw)》
+- 2020.04.20 开源中国发布文章《[80%的代码曾由一人提交， Apache ShardingSphere 何以从 ASF 毕业并晋升TLP](https://www.oschina.net/question/4489239_2316036)》
+- 2020.04.17 InfoQ 发布文章《[ShardingSphere 毕业成为 Apache 顶级项目](https://www.infoq.cn/article/EgR36ml79wYdBxzsUq7B)》
