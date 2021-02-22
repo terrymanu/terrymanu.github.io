@@ -23,7 +23,7 @@
 ## Books
 
 - 2019 年出版技术书籍 [未来架构——从服务化到云原生](https://baike.baidu.com/item/%E6%9C%AA%E6%9D%A5%E6%9E%B6%E6%9E%84%EF%BC%9A%E4%BB%8E%E6%9C%8D%E5%8A%A1%E5%8C%96%E5%88%B0%E4%BA%91%E5%8E%9F%E7%94%9F/23376862?fr=aladdin)
-- 2020 年翻译繁体中文 [雲端佈署的時代來臨：一探未來系統架構](https://www.tenlong.com.tw/products/9789869772662)
+- 2020 年翻译为繁体中文版本 [雲端佈署的時代來臨：一探未來系統架構](https://www.tenlong.com.tw/products/9789869772662)
 
 ## Activities
 
