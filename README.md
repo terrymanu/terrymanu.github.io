@@ -28,7 +28,7 @@
 - 11.07 录制 [ALC Beijing Episode #4 : 技术架构、Community 和康威定律](https://mp.weixin.qq.com/s/cNIeOA38zgB8UsQ-nUY4yw)
 - 10.25 2020中国开源年会暨阿帕奇中国路演分享[解读重生的分布式调度中间件 ElasticJob](https://www.bagevent.com/event/6840909?aId=1713014)
 - 10.23 [2020年软件铸魂·全国行（合肥站）之开源软件论坛](http://caijing.chinadaily.com.cn/a/202010/26/WS5f96881ea3101e7ce972b564.html)
-- 09.29 Presentation on ApacheCon 2020 [New Feature of Apache ShardingSphere 5.x](https://www.bilibili.com/video/av670215823)
+- 09.29 Presentation [New Feature of Apache ShardingSphere 5.x](https://www.bilibili.com/video/av670215823) on ApacheCon 2020
 - 09.25 担任 CSDI summit中国软件研发管理行业技术峰会 [服务治理](https://www.bagevent.com/event/csdisummit/p/413130) 专场出品人
 - 06.18 录制 [Podcast Episode #2（下） : Apache ShardingSphere 开发者们的欢乐与刺激](https://mp.weixin.qq.com/s/Rfaz4TQbCOsfKfF6VrbdIQ)
 - 06.06 录制 [Podcast Episode #2（上） : Apache ShardingSphere 开发者们的欢乐与刺激](https://mp.weixin.qq.com/s/wnAGpeiuhpLXlpdyCSDUeA)
@@ -40,9 +40,9 @@
 **2019**
 
 - 12.08 主办 [Apache ShardingSphere & DolphinScheduler 联合 Meetup](https://www.huodongxing.com/go/7520071550000)
-- 11.26 在美团点评的 TopTalk 分享 [基于 Apache ShardingSphere 打造分布式数据库]
+- 11.26 在美团点评的 TopTalk 分享 基于 Apache ShardingSphere 打造分布式数据库
 - 11.09 在清华大学的开源之道大讲堂分享 [Apache ShardingSphere 社区的探索与拓展](http://www.thss.tsinghua.edu.cn/article/gdGTgnGsR)
-- 09.10 Presentation on ApacheCon NA 2019 [Observability in distributed system](https://www.apachecon.com/acna19/s/#/scheduledEvent/1129)
+- 09.10 Presentation [Observability in distributed system](https://www.apachecon.com/acna19/s/#/scheduledEvent/1129) on ApacheCon NA 2019
 
 ## Articles
 
