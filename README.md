@@ -25,10 +25,13 @@
 **2020**
 
 - 被评为[2020年度 十大开源杰出贡献人物](https://www.infoq.cn/zones/chinatechawards/)
+- 11.07 录制 [ALC Beijing Episode #4 : 技术架构、Community 和康威定律](https://mp.weixin.qq.com/s/cNIeOA38zgB8UsQ-nUY4yw)
 - 10.25 2020中国开源年会暨阿帕奇中国路演分享[解读重生的分布式调度中间件 ElasticJob](https://www.bagevent.com/event/6840909?aId=1713014)
 - 10.23 [2020年软件铸魂·全国行（合肥站）之开源软件论坛](http://caijing.chinadaily.com.cn/a/202010/26/WS5f96881ea3101e7ce972b564.html)
 - 09.29 Presentation of ApacheCon 2020 [New Feature of Apache ShardingSphere 5.x](https://www.bilibili.com/video/av670215823)
-- 09.25 担任 CSDI summit中国软件研发管理行业技术峰会 [服务治理](https://www.bagevent.com/event/csdisummit/p/413130)专场出品人
+- 09.25 担任 CSDI summit中国软件研发管理行业技术峰会 [服务治理](https://www.bagevent.com/event/csdisummit/p/413130) 专场出品人
+- 06.18 录制 [Podcast Episode #2（下） : Apache ShardingSphere 开发者们的欢乐与刺激](https://mp.weixin.qq.com/s/Rfaz4TQbCOsfKfF6VrbdIQ)
+- 06.06 录制 [Podcast Episode #2（上） : Apache ShardingSphere 开发者们的欢乐与刺激](https://mp.weixin.qq.com/s/wnAGpeiuhpLXlpdyCSDUeA)
 - 04.25 PostgreSQL中文社区第6期直播分享 [ShardingSphere的Apache共建之道](https://mp.weixin.qq.com/s/NtZPSF47qqM5p3V93Ap_wg)
 - 04.10【数字科技学习周】第三讲 直播分享[基于Apache ShardingSphere打造分布式数据库](https://appdq4whpzy1819.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoxMiwicmVzb3VyY2VfdHlwZSI6NCwicmVzb3VyY2VfaWQiOiJsXzVlODg2NjZmOWUxMzJfQTNUUW1FS1ciLCJwcm9kdWN0X2lkIjoiIiwiYXBwX2lkIjoiYXBwZHE0V0hQWnkxODE5IiwiZXh0cmFfZGF0YSI6MH0?entry=3&entry_type=0)
 - 03.20【技术说】开源专场 直播分享[如何共同打造Apache ShardingSphere](http://forum.jd.com/forum.php?mod=viewthread&tid=230371)
@@ -43,7 +46,10 @@
 **2020**
 
 - 11.17 开源中国 发布文章 [从中间件到分布式数据库生态，ShardingSphere 5.x革新变旧](https://mp.weixin.qq.com/s/Y29kZsgW9JpQQOvJ9cs1nw)
+- 08.10 CSDN 发布文章 [停滞数年后，ElasticJob 携首个 Apache 版本 3.0.0-alpha 回归！](https://mp.weixin.qq.com/s/vh03puBlT3GBe8qLlsAtMA)
+- 07.09 InfoQ 发布文章 [ElasticJob 的产品定位与新版本设计理念](https://www.infoq.cn/article/ZcEsH20kUCB9QP1O1PNt)
+- 07.08 开源中国 发布文章 [GitHub上持续冲榜，ElasticJob重启](https://mp.weixin.qq.com/s/QLKjn_dfVG2OBxbnrwDl5w)
 - 04.21 ALC Beijing 发布文章 [Apache 项目成功孵化案例之 — Apache ShardingSphere 一波三折的心跳之路](https://mp.weixin.qq.com/s/o3TgGVMeSdLp03yW_ZWbyA)
 - 04.20 CSDN 发布文章 [GitHub 标星 10,000+，Apache 顶级项目 ShardingSphere 的开源之路](https://mp.weixin.qq.com/s/WroNWdoNZv-dM5GLHFeaWw)
-- 04.20 开源中国发布文章 [80%的代码曾由一人提交， Apache ShardingSphere 何以从 ASF 毕业并晋升TLP](https://www.oschina.net/question/4489239_2316036)
+- 04.20 开源中国 发布文章 [80%的代码曾由一人提交， Apache ShardingSphere 何以从 ASF 毕业并晋升TLP](https://www.oschina.net/question/4489239_2316036)
 - 04.17 InfoQ 发布文章 [ShardingSphere 毕业成为 Apache 顶级项目](https://www.infoq.cn/article/EgR36ml79wYdBxzsUq7B)
