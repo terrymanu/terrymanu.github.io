@@ -43,6 +43,7 @@
 - 11.26 在美团点评的 TopTalk 分享 基于 Apache ShardingSphere 打造分布式数据库
 - 11.09 在清华大学的开源之道大讲堂分享 [Apache ShardingSphere 社区的探索与拓展](http://www.thss.tsinghua.edu.cn/article/gdGTgnGsR)
 - 09.10 Presentation [Observability in distributed system](https://www.apachecon.com/acna19/s/#/scheduledEvent/1129) on ApacheCon NA 2019
+- 06.23 担任 GIAC 2019 中间件专场出品人并分享 [云化数据架构下的Apache ShardingSphere（Incubating）生态](http://www.thegiac.com/2019/schedule/course?id=13814)
 
 ## Articles
 
