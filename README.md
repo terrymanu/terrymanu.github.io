@@ -27,6 +27,10 @@
 
 ## Activities
 
+**2021**
+
+- 04.17 DataFun Summit 2021 分享 [Apache ShardingSphere 的蓝海探索](https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx0e9b298caef33b9a&redirect_uri=https%3A%2F%2Fuser.datafun.hbsaas.com%2Fapis%2Fwx-code&response_type=code&scope=snsapi_userinfo&state=RequestCache.56777&connect_redirect=1#wechat_redirect)
+
 **2020**
 
 - 被评为 [2020年度 十大开源杰出贡献人物](https://www.infoq.cn/zones/chinatechawards/)
