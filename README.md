@@ -11,6 +11,7 @@
 
 ## Career
 
+- **CEO at SphereEx**
 - **Architect Expert at JD.com**, focus on Open Source and Apache ShardingSphere development
 - **Architect Director at dangdang.com**, focus on elastic-job and sharding-jdbc development
 
@@ -28,12 +29,12 @@
 ## Activities
 
 **2021**
-
+- 05.29 openGauss 北京 Meetup 分享 [ShardingSphere 与 openGauss 的化学反应](https://www.bilibili.com/video/BV1N44y1672a/)
 - 04.17 DataFun Summit 2021 分享 [Apache ShardingSphere 的蓝海探索](https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx0e9b298caef33b9a&redirect_uri=https%3A%2F%2Fuser.datafun.hbsaas.com%2Fapis%2Fwx-code&response_type=code&scope=snsapi_userinfo&state=RequestCache.56777&connect_redirect=1#wechat_redirect)
 
 **2020**
 
-- 被评为 [2020年度 十大开源杰出贡献人物](https://www.infoq.cn/zones/chinatechawards/)
+- 被评为 [2020年度 十大开源杰出贡献人物](https://www.infoq.cn/zones/chinatechawards/2020/)
 - 11.07 录制 [ALC Beijing Episode #4 : 技术架构、Community 和康威定律](https://mp.weixin.qq.com/s/cNIeOA38zgB8UsQ-nUY4yw)
 - 10.25 2020中国开源年会暨阿帕奇中国路演分享[解读重生的分布式调度中间件 ElasticJob](https://www.bagevent.com/event/6840909?aId=1713014)
 - 10.23 [2020年软件铸魂·全国行（合肥站）之开源软件论坛](http://caijing.chinadaily.com.cn/a/202010/26/WS5f96881ea3101e7ce972b564.html)
