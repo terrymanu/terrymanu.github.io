@@ -10,8 +10,7 @@
 - **Bachelor degree**, major in Commercial Software Development, Waterford Institute Technology
 
 ## Career
-
-- **CEO at SphereEx**
+- **CEO at [SphereEx](http://www.sphere-ex.com/) **
 - **Architect Expert at JD.com**, focus on Open Source and Apache ShardingSphere development
 - **Architect Director at dangdang.com**, focus on elastic-job and sharding-jdbc development
 
