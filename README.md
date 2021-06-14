@@ -11,7 +11,7 @@
 
 ## Career
 
-- **CEO at [SphereEx](http://www.sphere-ex.com/) **
+- **CEO at [SphereEx](http://www.sphere-ex.com/)**
 - **Architect Expert at JD.com**, focus on Open Source and Apache ShardingSphere development
 - **Architect Director at dangdang.com**, focus on elastic-job and sharding-jdbc development
 
