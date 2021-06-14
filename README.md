@@ -10,6 +10,7 @@
 - **Bachelor degree**, major in Commercial Software Development, Waterford Institute Technology
 
 ## Career
+
 - **CEO at [SphereEx](http://www.sphere-ex.com/) **
 - **Architect Expert at JD.com**, focus on Open Source and Apache ShardingSphere development
 - **Architect Director at dangdang.com**, focus on elastic-job and sharding-jdbc development
@@ -28,6 +29,7 @@
 ## Activities
 
 **2021**
+
 - 05.29 openGauss 北京 Meetup 分享 [ShardingSphere 与 openGauss 的化学反应](https://www.bilibili.com/video/BV1N44y1672a/)
 - 04.17 DataFun Summit 2021 分享 [Apache ShardingSphere 的蓝海探索](https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx0e9b298caef33b9a&redirect_uri=https%3A%2F%2Fuser.datafun.hbsaas.com%2Fapis%2Fwx-code&response_type=code&scope=snsapi_userinfo&state=RequestCache.56777&connect_redirect=1#wechat_redirect)
 
