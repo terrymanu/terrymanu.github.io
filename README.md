@@ -17,6 +17,7 @@
 
 ## Titles
 
+- [Apache Member]
 - [Apache ShardingSphere PMC Chair](https://shardingsphere.apache.org/community/en/team/) (Apache ShardingSphere 项目管理委员会主席)
 - [Most Valuable Professional of Microsoft](https://mvp.microsoft.com/zh-cn/PublicProfile/5003705) (微软MVP)
 - [Tencent Cloud Valuable Professional](https://cloud.tencent.com/tvp/member/151) (腾讯云TVP)
