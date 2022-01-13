@@ -41,7 +41,7 @@
 > - ~~DataFun Summit 2021“Apache ShardingSphere 的蓝海探索”~~*DataFun Summit 2021 - "Blue Ocean Exploration of Apache ShardingSphere"*
 > - [~~InfoQ 开源创新 30 人专访“本土开源需形成吸纳开发者的靶心”~~*Exclusive Interview with InfoQ: 30 New Open Source Innovators, "Home-Grown Open Source Should Offer More Incentives to Developers"*](https://www.infoq.cn/zones/chinatechawards/2020/)
 
-> **2020** 
+> **2020**
 > - [~~被评为 2020 年度十大开源杰出贡献人物~~*Named Top Ten Open Source Contributor of 2020*](https://www.infoq.cn/zones/chinatechawards/2020/)
 > - [~~11.07 录制 ALC Beijing Episode #4 : 技术架构、Community 和康威定律~~*11.07 Filmed ALC Beijing Episode #4 : Technology Architecture, Community and Conway's Law*](https://mp.weixin.qq.com/s/cNIeOA38zgB8UsQ-nUY4yw)
 > - [~~10.25 2020 中国开源年会暨阿帕奇中国路演分享解读重生的分布式调度中间件 ElasticJob~~*10.25 Sharing at COSCon'20 & Apache Roadshow - China Explanation of Reborn Distributed Scheduling Middleware ElasticJob*](https://www.bagevent.com/event/6840909?aId=1713014)
