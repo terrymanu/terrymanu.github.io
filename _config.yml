@@ -1,5 +1,7 @@
 theme: jekyll-theme-minimal
 title: Liang Zhang
-description: SphereEx 创始人 & CEO，Apache Member，Apache ShardingSphere、ElasticJob 创始人 & 项目管理委员会主席，腾讯云 TVP、微软 MVP。<br/><br/>热爱开源，擅长以 Java 为主分布式架构，推崇优雅代码。目前主要精力投入在将 Apache ShardingSphere 打造为业界一流的金融级分布式数据库解决方案之上；2019 年出版书籍《未来架构——从服务化到云原生》；2020年度十大开源杰出贡献人物，2021年度海纳奖“分布式数据库十大先锋人物”。
+description: <del>SphereEx 创始人 & CEO，Apache Member，Apache ShardingSphere、ElasticJob 创始人 & 项目管理委员会主席，腾讯云 TVP、微软 MVP。<br/><br/>热爱开源，擅长以 Java 为主分布式架构，推崇优雅代码。目前主要精力投入在将 Apache ShardingSphere 打造为业界一流的金融级分布式数据库解决方案之上；2019 年出版书籍《未来架构——从服务化到云原生》；2020 年度十大开源杰出贡献人物，2021 年度海纳奖“分布式数据库十大先锋人物”，思否 2021 中国开源先锋 33 人。</del> <em>SphereEx Founder & CEO, Apache Member, Apache ShardingSphere, ElasticJob Founder & PMC Chair, Tencent Cloud TVP, Microsoft MVP.<br/><br/>Zhang is enthusiastic about open source, a thought leader in the field of distributed architectures based on Java, and is always striving to promote clean code. Currently, he focuses on turning Apache ShardingSphere into an industry-leading financial-grade distributed database solution. <br/>His book "Future Architecture:From Service to Cloud Native" was published in 2019, and was well received by both critics and the community. <br/>Zhang was awarded the title of "Top Ten Open Source Contributor of 2020" , “Top Ten Distributed Database Pioneers of 2021” awarded by CSDN, and "The 33 China Open Source Pioneers in 2021" by SegmentFault.</em>
 show_downloads: false
 logo: images/avatar.jpeg
+
+
