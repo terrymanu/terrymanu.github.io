@@ -71,7 +71,7 @@
 > - [~~InfoQ 发布文章 为了让你搞定数据库选型，这些工程师重写了 26 万行代码~~*Article published on InfoQ "These Engineers Rewrote 260,000 Lines of Code to Help You Choose Database Models"*](https://mp.weixin.qq.com/s/f5E1quJBPRJIxaiRZptCTg)
 > - [~~初心资本发布文章 SphereEx CEO 张亮：数据库上云是大势所趋｜初心·问~~*Article published on Chuxin Capital "SphereEx CEO Liang Zhang: Migrating Databases to the Cloud is the Trend｜Chuxin Interview"*](https://mp.weixin.qq.com/s/D-xrgldCQMTXgFk7VyK0kg)
 > - [~~OSC 开源社区发布文章 张亮：为发展 ShardingSphere 创办 SphereEx，看好云上订阅制~~*Article published on OSC Open Source Community "Liang Zhang: Created SphereEx for the Development of ShardingSphere, and is Optimistic About Cloud Subscription System"*](https://mp.weixin.qq.com/s/c4C2UeautoEuNAMLlFaGMg)
-> - [~~InfoQ 发布开源创新 30 人专访 本土开源需形成吸纳开发者的靶心~~*Published Interviews with 30 Open Source Innovators on InfoQ - Home-Grown Open Source Should Offer More Incentives to Developers*](https://www.infoq.cn/article/ffoPlz31cXhDpuOdUdm3)
+<!-- > - [~~InfoQ 发布开源创新 30 人专访 本土开源需形成吸纳开发者的靶心~~*Published Interviews with 30 Open Source Innovators on InfoQ - Home-Grown Open Source Should Offer More Incentives to Developers*](https://www.infoq.cn/article/ffoPlz31cXhDpuOdUdm3) -->
 
 > **2020**
 > - [~~11.17 开源中国发布文章 从中间件到分布式数据库生态，ShardingSphere 5.x革新变旧~~*11.17 Article published in Open Source China - From Middleware to Distributed Database Ecosystem, ShardingSphere 5.x Changes*](https://mp.weixin.qq.com/s/Y29kZsgW9JpQQOvJ9cs1nw)
