@@ -7,10 +7,6 @@
 #### **~~城市~~*city*** ~~北京, 中国~~ *Beijing, China*
 #### **~~职位~~*Professional Title*** ~~SphereEx 创始人 & CEO~~ *SphereEx Founder & CEO*
 
-
-
-
-
 #### **~~社区职位~~*Community Title***  Apache Member & Apache ShardingSphere PMC & Apache ShardingSphere, ElasticJob Founder & PMC Chair.
 #### **E-mail** <a href="mailto:zhangliang@apache.org">zhangliang@apache.org</a>
 #### **Twitter** [LiangZh52199766](https://twitter.com/LiangZh52199766)
