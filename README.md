@@ -23,7 +23,7 @@
 
 ###  *Event & Conference Appearances*~~活动经历~~
 
-> **2021**    
+> **2021**
 > - [~~思否 2021 中国开源先锋 33 人~~*"The 33 China Open Source Pioneers in 2021" by SegmentFault*](https://mp.weixin.qq.com/s/ff7PQemQM-rTBR5VuR5vQg)
 > - [~~2021DC 分布式数据库开发者大会“分布式数据库下的 Proxy 与 Proxyless 架构”~~*2021 Distributed Database Developer Conference - “Distributed Databases' Proxy and Proxyless Architecture”*](https://mp.weixin.qq.com/s/4-ZRAZNWHcaccqgy6ciY4g)
 > - [~~2021 年度海纳奖--分布式数据库十佳实践人物~~*"Top Ten Distributed Database Pioneers of 2021” awarded by CSDN*](https://mp.weixin.qq.com/s/4-ZRAZNWHcaccqgy6ciY4g)
