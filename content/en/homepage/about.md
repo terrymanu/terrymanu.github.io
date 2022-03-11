@@ -68,10 +68,10 @@ widget:
 
 > **2021**    
 > - ["The 33 China Open Source Pioneers in 2021" by SegmentFault](https://mp.weixin.qq.com/s/ff7PQemQM-rTBR5VuR5vQg)
-> - [2021 Distributed Database Developer Conference - “Distributed Databases' Proxy and Proxyless Architecture”](https://mp.weixin.qq.com/s/4-ZRAZNWHcaccqgy6ciY4g)
 > - [Top Ten Distributed Database Pioneers of 2021” awarded by CSDN](https://mp.weixin.qq.com/s/4-ZRAZNWHcaccqgy6ciY4g)
+> - [2021 Distributed Database Developer Conference - “Distributed Databases' Proxy and Proxyless Architecture”](https://mp.weixin.qq.com/s/4-ZRAZNWHcaccqgy6ciY4g)
+> - [DTCC Database Technology Conference China 2021 - "Creating Standard for Database: Apache ShardingSphere's Blue Ocean Exploration in Database Plus"](https://www.modb.pro/doc/53448)
 > - [QCon International Software Development Conference "From a Ten-Year Open Source Contributor to a Commercial CEO"](https://qcon.infoq.cn/2021/shanghai/track/1168)
-> - DTCC Database Technology Conference China 2021 - "Creating Standard for Database: Apache ShardingSphere's Blue Ocean Exploration in Database Plus"
 > - ApacheCon Asia 2021 — Middleware Track Chair
 > - ITPUB.NET “Apache ShardingSphere's Blue Ocean Exploration in Database Plus"
 > - 2021 OSCAR Open Source Industry Conference "SphereEx's Exploration of Open Source Commercialization Based on Apache ShardingSphere"
@@ -134,6 +134,7 @@ widget:
 
 ###  Video
 
+- [DTCC Database Technology Conference China 2021 - "Creating Standard for Database: Apache ShardingSphere's Blue Ocean Exploration in Database Plus"](https://www.bilibili.com/s/video/BV1vu411U7TP)
 - [Online Interview - "Developing New Ideas of Data Service"](https://www.bilibili.com/video/BV1H44y117fH?spm_id_from=333.999.0.0)
 - [ABC of Apache ShardingSphere from the Source Code](https://www.bilibili.com/video/BV17q4y1H7Bo?spm_id_from=333.999.0.0)
 - [The Joint Development of Apache of ShardingSphere](https://www.bilibili.com/video/BV1aC4y1W7DA?spm_id_from=333.999.0.0)

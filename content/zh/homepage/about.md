@@ -70,14 +70,14 @@ widget:
 
 ###  活动经历
 
-> **2021**    
+> **2021**
 > - [思否 2021 中国开源先锋 33 人](https://mp.weixin.qq.com/s/ff7PQemQM-rTBR5VuR5vQg)
-> - [2021DC 分布式数据库开发者大会“分布式数据库下的 Proxy 与 Proxyless 架构”](https://mp.weixin.qq.com/s/4-ZRAZNWHcaccqgy6ciY4g)
 > - [2021 年度海纳奖--分布式数据库十佳实践人物](https://mp.weixin.qq.com/s/4-ZRAZNWHcaccqgy6ciY4g)
-> - 2021 数据技术嘉年华“数据库碎片化大潮下的 Database Plus”
+> - [2021DC 分布式数据库开发者大会“分布式数据库下的 Proxy 与 Proxyless 架构”](https://mp.weixin.qq.com/s/4-ZRAZNWHcaccqgy6ciY4g)
+> - [2021 数据技术嘉年华“数据库碎片化大潮下的 Database Plus”](https://www.modb.pro/doc/53448)
 > - [QCon 全球软件开发大会“十年开源者的商业 CEO 转变之路”](https://qcon.infoq.cn/2021/shanghai/track/1168)
 > - DTCC 第十二届中国数据库技术大会“构建数据库之上的标准：Apache ShardingSphere 在 Database Plus 的蓝海探索”
-> - ApacheCon Asia 2021 —— 中间件 track 出品人
+> - ApacheCon Asia 2021 —— 中间件专场出品人
 > - 技术琐话大咖直播“Apache ShardingSphere 在 Database Plus 的蓝海探索”
 > - 2021 OSCAR 开源产业大会“SphereEx 基于 Apache ShardingSphere 的开源商业化探索”
 > - [极客时间 Java 直播周直播“带你从源码解读入门 Apache ShardingSphere”](https://www.bilibili.com/video/BV17q4y1H7Bo?spm_id_from=333.999.0.0)
@@ -140,6 +140,7 @@ widget:
 
 ###  视频
 
+- [2021 数据技术嘉年华“数据库碎片化大潮下的 Database Plus”](https://www.bilibili.com/s/video/BV1vu411U7TP)
 - [云咖访谈  构建数据服务的新思路](https://www.bilibili.com/video/BV1H44y117fH?spm_id_from=333.999.0.0)
 - [带你从源码解读入门 Apache ShardingSphere](https://www.bilibili.com/video/BV17q4y1H7Bo?spm_id_from=333.999.0.0)
 - [ShardingSphere 的 Apache 共建之道](https://www.bilibili.com/video/BV1aC4y1W7DA?spm_id_from=333.999.0.0)
