@@ -16,7 +16,7 @@ bio: SphereEx Founder & CEO, Apache Member, Apache ShardingSphere, ElasticJob Fo
 #     url: https://example.com/
 #   - icon: github
 #     iconPack: fab
-#     url: https://example.com/
+#     url: https://github.com/terrymanu/
 
 weight: 1
 widget:

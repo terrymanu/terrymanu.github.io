@@ -16,7 +16,7 @@ bio: SphereEx 创始人 & CEO，Apache Member，Apache ShardingSphere、ElasticJ
 #     url: https://example.com/
   # - icon: github
   #   iconPack: fab
-  #   url: https://github.com/tristaZero/
+  #   url: https://github.com/terrymanu/
 
 weight: 1
 widget:
