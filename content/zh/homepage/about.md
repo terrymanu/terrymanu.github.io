@@ -50,46 +50,50 @@ widget:
 #### **城市** 北京, 中国
 #### **职位** SphereEx 创始人 & CEO
 
-
-
-
-
 #### **社区职位**  Apache Member & Apache ShardingSphere PMC & Apache ShardingSphere, ElasticJob Founder & PMC Chair.
 #### **E-mail** <a href="mailto:zhangliang@apache.org">zhangliang@apache.org</a>
 #### **Twitter** [LiangZh52199766](https://twitter.com/LiangZh52199766)
-    
-###  教育经历
 
-- **学士**, 沃特福德理工学院商业软件开发专业
+### 教育经历
 
-###  职业生涯
+- 沃特福德理工学院商业软件开发专业
 
-- SphereEx 创始人
-- 京东架构专家（开源，Apache ShardingSphere 开发）
-- 当当网架构师总监（ElasticJob，Sharding-JDBC 开发）
+### 职业生涯
 
-###  活动经历
+- SphereEx 创始人（Apache ShardingSphere，SphereEx DB Plus Engine，Database Mesh）
+- 京东架构专家（Apache ShardingSphere）
+- 当当网架构师总监（Elastic-Job，Sharding-JDBC）
+
+### 获得奖项
 
 > **2021**
 > - [思否 2021 中国开源先锋 33 人](https://mp.weixin.qq.com/s/ff7PQemQM-rTBR5VuR5vQg)
 > - [2021 年度海纳奖--分布式数据库十佳实践人物](https://mp.weixin.qq.com/s/4-ZRAZNWHcaccqgy6ciY4g)
+> - QCon 2021 明星讲师
+
+> **2020**
+> - [被评为 2020 年度十大开源杰出贡献人物](https://www.infoq.cn/zones/chinatechawards/2020/)
+ 
+### 活动经历
+
+> **2021**
 > - [2021DC 分布式数据库开发者大会“分布式数据库下的 Proxy 与 Proxyless 架构”](https://mp.weixin.qq.com/s/4-ZRAZNWHcaccqgy6ciY4g)
+> - [openGauss Summit 2021 “使用ShardingSphere打造openGauss高性能生态”](https://mp.weixin.qq.com/s?src=11&timestamp=1647407096&ver=3679&signature=6brz3S3zKGKK9HGQnGZuUB-eTY1gmZ4KaMfbRJoo8CimD6lwy*D-loIWaUty8HGBEy27qVZy4tGGEX7qoMjZsH0BTsTV0cWShrRseLpWiYCBU*16z9SLaI0A5LTmjQye&new=1)
 > - [2021 数据技术嘉年华“数据库碎片化大潮下的 Database Plus”](https://www.modb.pro/doc/53448)
 > - [QCon 全球软件开发大会“十年开源者的商业 CEO 转变之路”](https://qcon.infoq.cn/2021/shanghai/track/1168)
-> - DTCC 第十二届中国数据库技术大会“构建数据库之上的标准：Apache ShardingSphere 在 Database Plus 的蓝海探索”
-> - ApacheCon Asia 2021 —— 中间件专场出品人
-> - 技术琐话大咖直播“Apache ShardingSphere 在 Database Plus 的蓝海探索”
-> - 2021 OSCAR 开源产业大会“SphereEx 基于 Apache ShardingSphere 的开源商业化探索”
+> - [DTCC 第十二届中国数据库技术大会“构建数据库之上的标准：Apache ShardingSphere 在 Database Plus 的蓝海探索”](https://weibo.com/ttarticle/p/show?id=2309404652005179129865)
+> - [ApacheCon Asia 2021 —— 中间件专场出品人](https://apachecon.com/acasia2021/tracks/middleware.html)
+> > [Open Source Day hackathon 活动支持](https://mp.weixin.qq.com/s?src=11&timestamp=1647406652&ver=3679&signature=vaD*NODworhTp1JkSa1SHGqOl8922GAW1xT6lO-Wie7hy-ueIH*xtYJsyiA-d*YDrjT8P4K0-g5R2EeL70HQcxDttiyG1xdGPcZNbyc6Os0-jmKOmaVff*KhZCGtqq7p&new=1)
+> - [2021 OSCAR 开源产业大会“SphereEx 基于 Apache ShardingSphere 的开源商业化探索”](https://blog.csdn.net/zhaijia03/article/details/120320506)
 > - [极客时间 Java 直播周直播“带你从源码解读入门 Apache ShardingSphere”](https://www.bilibili.com/video/BV17q4y1H7Bo?spm_id_from=333.999.0.0)
 > - [亚马逊云科技中国峰会云咖访谈“构建数据服务的新思路”](https://www.bilibili.com/video/BV1H44y117fH?spm_id_from=333.999.0.0)
-> - CHAOSS Meetup 2021“以开源为生，Apache ShardingSphere 社区成长解读”
+> - [CHAOSS Meetup 2021“以开源为生，Apache ShardingSphere 社区成长解读”](https://mp.weixin.qq.com/s?src=11&timestamp=1647407187&ver=3679&signature=AZ*K*5V-qXXpZ1vp8nRuZVMtO63cvD3mRJEzfw6p2348ptNBjcQBIuXFwARg7XWAabyw4adetd9cryGQS-lKQbZrH5OwdpRS9h3RgZFgjX3AcW3NxDWuuqZROt4XbSnm&new=1)
 > - 日本幽谷学堂线上分享“可插拔数据库上层标准—Apache ShardingSphere”
 > - [openGauss 北京 Meetup“ShardingSphere 与 openGauss 的化学反应”](https://www.bilibili.com/video/BV1N44y1672a/)
 > - DataFun Summit 2021“Apache ShardingSphere 的蓝海探索”
 > - [InfoQ 开源创新 30 人专访“本土开源需形成吸纳开发者的靶心”](https://www.infoq.cn/zones/chinatechawards/2020/)
 
-> **2020** 
-> - [被评为 2020 年度十大开源杰出贡献人物](https://www.infoq.cn/zones/chinatechawards/2020/)
+> **2020**
 > - [11.07 录制 ALC Beijing Episode #4 : 技术架构、Community 和康威定律](https://mp.weixin.qq.com/s/cNIeOA38zgB8UsQ-nUY4yw)
 > - [10.25 2020 中国开源年会暨阿帕奇中国路演分享解读重生的分布式调度中间件 ElasticJob](https://www.bagevent.com/event/6840909?aId=1713014)
 > - [10.23 2020 年软件铸魂·全国行（合肥站）之开源软件论坛](http://caijing.chinadaily.com.cn/a/202010/26/WS5f96881ea3101e7ce972b564.html)

@@ -43,7 +43,7 @@ widget:
     attachment: 
 ---
 
-###  Personal
+### Personal
 
 #### **English Name** Liang Zhang
 #### **Gender** Male
@@ -53,38 +53,47 @@ widget:
 #### **Community Title**  Apache Member & Apache ShardingSphere PMC & Apache ShardingSphere, ElasticJob Founder & PMC Chair.
 #### **E-mail** <a href="mailto:zhangliang@apache.org">zhangliang@apache.org</a>
 #### **Twitter** [LiangZh52199766](https://twitter.com/LiangZh52199766)
-    
-###  Education
 
-- **Bachelor Degree**, Enterprise Software Development at the Waterford Institute of Technology
+### Education
 
-###  Career
+- Commercial Software Development at the Waterford Institute of Technology
 
-- SphereEx Founder & CEO
-- JD Architecture Expert (developed Apache shardingsphere)
-- Architecture Director of Dangdang (elastic job, sharding JDBC Development)
+### Career
 
-###  Event & Conference Appearances
+- SphereEx Founder & CEO (Apache ShardingSphere, SphereEx DB Plus Engine，Database Mesh)
+- JD Architecture Expert (Apache ShardingSphere)
+- Architecture Director of Dangdang (Elastic-Job, Sharding-JDBC)
 
-> **2021**    
+### Award
+
+> **2021**
 > - ["The 33 China Open Source Pioneers in 2021" by SegmentFault](https://mp.weixin.qq.com/s/ff7PQemQM-rTBR5VuR5vQg)
 > - [Top Ten Distributed Database Pioneers of 2021” awarded by CSDN](https://mp.weixin.qq.com/s/4-ZRAZNWHcaccqgy6ciY4g)
+> - QCon 2021 Star Lecturer
+
+> **2020**
+> - [Named Top Ten Open Source Contributor of 2020](https://www.infoq.cn/zones/chinatechawards/2020/)
+
+### Event & Conference Appearances
+
+> **2021**
+
 > - [2021 Distributed Database Developer Conference - “Distributed Databases' Proxy and Proxyless Architecture”](https://mp.weixin.qq.com/s/4-ZRAZNWHcaccqgy6ciY4g)
+> - [openGauss Summit 2021 “Using ShardingSphere to build openGauss high performance ecosystem”](https://mp.weixin.qq.com/s?src=11&timestamp=1647407096&ver=3679&signature=6brz3S3zKGKK9HGQnGZuUB-eTY1gmZ4KaMfbRJoo8CimD6lwy*D-loIWaUty8HGBEy27qVZy4tGGEX7qoMjZsH0BTsTV0cWShrRseLpWiYCBU*16z9SLaI0A5LTmjQye&new=1)
 > - [DTCC Database Technology Conference China 2021 - "Creating Standard for Database: Apache ShardingSphere's Blue Ocean Exploration in Database Plus"](https://www.modb.pro/doc/53448)
 > - [QCon International Software Development Conference "From a Ten-Year Open Source Contributor to a Commercial CEO"](https://qcon.infoq.cn/2021/shanghai/track/1168)
-> - ApacheCon Asia 2021 — Middleware Track Chair
-> - ITPUB.NET “Apache ShardingSphere's Blue Ocean Exploration in Database Plus"
-> - 2021 OSCAR Open Source Industry Conference "SphereEx's Exploration of Open Source Commercialization Based on Apache ShardingSphere"
+> - [ApacheCon Asia 2021 — Middleware Track Chair](https://apachecon.com/acasia2021/tracks/middleware.html)
+> - [Open Source Day hackathon support](https://mp.weixin.qq.com/s?src=11&timestamp=1647406652&ver=3679&signature=vaD*NODworhTp1JkSa1SHGqOl8922GAW1xT6lO-Wie7hy-ueIH*xtYJsyiA-d*YDrjT8P4K0-g5R2EeL70HQcxDttiyG1xdGPcZNbyc6Os0-jmKOmaVff*KhZCGtqq7p&new=1)
+> - [2021 OSCAR Open Source Industry Conference "SphereEx's Exploration of Open Source Commercialization Based on Apache ShardingSphere"](https://blog.csdn.net/zhaijia03/article/details/120320506)
 > - [Geek Time Java Live Streaming Week "ABC of Apache ShardingSphere from Source Code"](https://www.bilibili.com/video/BV17q4y1H7Bo?spm_id_from=333.999.0.0)
 > - [Amazon Cloud Technology China Summit - "Developing New Ideas of Data Service"](https://www.bilibili.com/video/BV1H44y117fH?spm_id_from=333.999.0.0)
-> - CHAOSS Meetup 2021 - "Apache ShardingSphere Community Development Based on Open Source”
+> - [CHAOSS Meetup 2021 - "Apache ShardingSphere Community Development Based on Open Source”](https://mp.weixin.qq.com/s?src=11&timestamp=1647407187&ver=3679&signature=AZ*K*5V-qXXpZ1vp8nRuZVMtO63cvD3mRJEzfw6p2348ptNBjcQBIuXFwARg7XWAabyw4adetd9cryGQS-lKQbZrH5OwdpRS9h3RgZFgjX3AcW3NxDWuuqZROt4XbSnm&new=1)
 > - Online Sharing Session with Yougu Academy of Japan  "Upper Layer Standard of Pluggable Database - Apache ShardingSphere"
 > - [openGauss Meetup (Beijing) - "Chemical Reaction Between ShardingSphere and openGauss"](https://www.bilibili.com/video/BV1N44y1672a/)
 > - DataFun Summit 2021 - "Blue Ocean Exploration of Apache ShardingSphere"
 > - [Exclusive Interview with InfoQ: 30 New Open Source Innovators, "Home-Grown Open Source Should Offer More Incentives to Developers"](https://www.infoq.cn/zones/chinatechawards/2020/)
 
-> **2020** 
-> - [Named Top Ten Open Source Contributor of 2020](https://www.infoq.cn/zones/chinatechawards/2020/)
+> **2020**
 > - [11.07 Filmed ALC Beijing Episode #4 : Technology Architecture, Community and Conway's Law](https://mp.weixin.qq.com/s/cNIeOA38zgB8UsQ-nUY4yw)
 > - [10.25 Sharing at COSCon'20 & Apache Roadshow - China Explanation of Reborn Distributed Scheduling Middleware ElasticJob](https://www.bagevent.com/event/6840909?aId=1713014)
 > - [10.23 2020 Software Soul Casting · National Tour (Hefei) Open Source Software Forum](http://caijing.chinadaily.com.cn/a/202010/26/WS5f96881ea3101e7ce972b564.html)
