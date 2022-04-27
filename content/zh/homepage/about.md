@@ -3,7 +3,7 @@ title: Liang Zhang
 draft: false
 # role: Example Role
 avatar: images/avatar.jpeg
-bio: SphereEx 创始人 & CEO，Apache Member，Apache ShardingSphere、ElasticJob 创始人 & 项目管理委员会主席，腾讯云 TVP、微软 MVP。<br/><br/>热爱开源，擅长以 Java 为主分布式架构，推崇优雅代码。目前主要精力投入在将 Apache ShardingSphere 打造为业界一流的金融级分布式数据库解决方案之上；2019 年出版书籍《未来架构——从服务化到云原生》；2020 年度十大开源杰出贡献人物，2021 年度海纳奖“分布式数据库十大先锋人物”，思否 2021 中国开源先锋 33 人。<br/><br/><p><a href="https://github.com/terrymanu">View My GitHub Profile</a></p>
+bio: SphereEx 创始人 & CEO，Apache Member，Apache ShardingSphere、ElasticJob 创始人 & 项目管理委员会主席，腾讯云 TVP、微软 MVP。<br/><br/>热爱开源，擅长以 Java 为主分布式架构，推崇优雅代码。目前主要精力投入在将 Apache ShardingSphere 打造为业界一流的金融级分布式数据库解决方案之上；2019 年出版书籍《未来架构——从服务化到云原生》；2022年在 ICDE 发表论文“Apache ShardingSphere：A Holistic and Pluggable Platform for Data Sharding”；2020 年度十大开源杰出贡献人物，2021 年度海纳奖“分布式数据库十大先锋人物”，思否 2021 中国开源先锋 33 人。<br/><br/><p><a href="https://github.com/terrymanu">View My GitHub Profile</a></p>
 # organization:
 #   name: Example Organization
 #   url: https://example.com/
@@ -76,6 +76,11 @@ widget:
  
 ### 活动经历
 
+> **2022**
+> - [Apache ShardingSphere Tech-Meetup 第一期“Apache ShardingSphere 源码解读”](https://community.sphere-ex.com/t/topic/910)
+> - [CCF 高校行 —— 清华站“Apache ShardingSphere in Action”](https://mp.weixin.qq.com/s/bQXwwKh-HbDZ9rXEe0RzQQ)
+> - [DataFunSummit 2022 开源大数据存储论坛出品人](https://mp.weixin.qq.com/s/RSeJi9n0fTwt64kIDQJ65A)
+
 > **2021**
 > - [2021DC 分布式数据库开发者大会“分布式数据库下的 Proxy 与 Proxyless 架构”](https://mp.weixin.qq.com/s/4-ZRAZNWHcaccqgy6ciY4g)
 > - [openGauss Summit 2021 “使用ShardingSphere打造openGauss高性能生态”](https://mp.weixin.qq.com/s?src=11&timestamp=1647407096&ver=3679&signature=6brz3S3zKGKK9HGQnGZuUB-eTY1gmZ4KaMfbRJoo8CimD6lwy*D-loIWaUty8HGBEy27qVZy4tGGEX7qoMjZsH0BTsTV0cWShrRseLpWiYCBU*16z9SLaI0A5LTmjQye&new=1)
@@ -113,6 +118,10 @@ widget:
 
 
 ###  文章布道
+
+> **2022**
+> - [CSDN 发布文章“我们在讲的 Database Plus，到底能解决什么样的问题？”](https://mp.weixin.qq.com/s/Sg5sphupAxOPitmiRfy1ww)
+> - [ICDE 2022“Apache ShardingSphere：A Holistic and Pluggable Platform for Data Sharding”](https://download.sphere-ex.com/paper/a-holistic-and-pluggable-platform-for-data-sharding.pdf)
 
 > **2021**
 > - [InfoQ 发布文章 为了让你搞定数据库选型，这些工程师重写了 26 万行代码](https://mp.weixin.qq.com/s/f5E1quJBPRJIxaiRZptCTg)
