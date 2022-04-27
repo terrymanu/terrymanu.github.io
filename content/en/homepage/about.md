@@ -3,7 +3,7 @@ title: Liang Zhang
 draft: false
 # role: Example Role
 avatar: images/avatar.jpeg
-bio: SphereEx Founder & CEO, Apache Member, Apache ShardingSphere, ElasticJob Founder & PMC Chair, Tencent Cloud TVP, Microsoft MVP.<br/><br/>Zhang is enthusiastic about open source, a thought leader in the field of distributed architectures based on Java, and is always striving to promote clean code. Currently, he focuses on turning Apache ShardingSphere into an industry-leading financial-grade distributed database solution. <br/>His book "Future Architecture:From Service to Cloud Native" was published in 2019, and was well received by both critics and the community. <br/>Zhang was awarded the title of "Top Ten Open Source Contributor of 2020" , “Top Ten Distributed Database Pioneers of 2021” awarded by CSDN, and "The 33 China Open Source Pioneers in 2021" by SegmentFault.<br/><br/><p><a href="https://github.com/terrymanu">View My GitHub Profile</a></p>
+bio: SphereEx Founder & CEO, Apache Member, Apache ShardingSphere, ElasticJob Founder & PMC Chair, Tencent Cloud TVP, Microsoft MVP.<br/><br/>Zhang is enthusiastic about open source, a thought leader in the field of distributed architectures based on Java, and is always striving to promote clean code. Currently, he focuses on turning Apache ShardingSphere into an industry-leading financial-grade distributed database solution. <br/>His book "Future Architecture:From Service to Cloud Native" was published in 2019, and was well received by both critics and the community. <br/>His paper “Apache ShardingSphere:A Holistic and Pluggable Platform for Data Sharding” was published on ICDE in 2022.<br/>Zhang was awarded the title of "Top Ten Open Source Contributor of 2020" , “Top Ten Distributed Database Pioneers of 2021” awarded by CSDN, and "The 33 China Open Source Pioneers in 2021" by SegmentFault.<br/><br/><p><a href="https://github.com/terrymanu">View My GitHub Profile</a></p>
 # organization:
 #   name: Example Organization
 #   url: https://example.com/
@@ -76,8 +76,12 @@ widget:
 
 ### Event & Conference Appearances
 
-> **2021**
+> **2022**
+> - [Apache ShardingSphere Tech-Meetup No.1“Apache ShardingSphere Code Parsing”](https://community.sphere-ex.com/t/topic/910)
+> - [CCF University Workshop —— Tsinghua“Apache ShardingSphere in Action”](https://mp.weixin.qq.com/s/bQXwwKh-HbDZ9rXEe0RzQQ)
+> - [DataFunSummit 2022 Track Chair](https://mp.weixin.qq.com/s/RSeJi9n0fTwt64kIDQJ65A)
 
+> **2021**
 > - [2021 Distributed Database Developer Conference - “Distributed Databases' Proxy and Proxyless Architecture”](https://mp.weixin.qq.com/s/4-ZRAZNWHcaccqgy6ciY4g)
 > - [openGauss Summit 2021 “Using ShardingSphere to build openGauss high performance ecosystem”](https://mp.weixin.qq.com/s?src=11&timestamp=1647407096&ver=3679&signature=6brz3S3zKGKK9HGQnGZuUB-eTY1gmZ4KaMfbRJoo8CimD6lwy*D-loIWaUty8HGBEy27qVZy4tGGEX7qoMjZsH0BTsTV0cWShrRseLpWiYCBU*16z9SLaI0A5LTmjQye&new=1)
 > - [DTCC Database Technology Conference China 2021 - "Creating Standard for Database: Apache ShardingSphere's Blue Ocean Exploration in Database Plus"](https://www.modb.pro/doc/53448)
@@ -113,6 +117,10 @@ widget:
 
 
 ###  Articles & Written Contributions
+
+> **2022**
+> - [Publish on CSDN“What can we do from Database Plus?”](https://mp.weixin.qq.com/s/Sg5sphupAxOPitmiRfy1ww)
+> - [ICDE 2022“Apache ShardingSphere：A Holistic and Pluggable Platform for Data Sharding”](https://download.sphere-ex.com/paper/a-holistic-and-pluggable-platform-for-data-sharding.pdf)
 
 > **2021**
 > - [Article published on InfoQ "These Engineers Rewrote 260,000 Lines of Code to Help You Choose Database Models"](https://mp.weixin.qq.com/s/f5E1quJBPRJIxaiRZptCTg)
