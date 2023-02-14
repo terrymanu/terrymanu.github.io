@@ -76,10 +76,17 @@ widget:
 
 ### Event & Conference Appearances
 
+> **2023**
+> - [Apache ShardingSphere 2023 Meetup (Shanghai)](https://mp.weixin.qq.com/s/BQUeJ-16OK4r7LKHCoKTcw)
+
 > **2022**
 > - [Apache ShardingSphere Tech-Meetup No.1“Apache ShardingSphere Code Parsing”](https://community.sphere-ex.com/t/topic/910)
 > - [CCF University Workshop —— Tsinghua“Apache ShardingSphere in Action”](https://mp.weixin.qq.com/s/bQXwwKh-HbDZ9rXEe0RzQQ)
 > - [DataFunSummit 2022 Track Chair](https://mp.weixin.qq.com/s/RSeJi9n0fTwt64kIDQJ65A)
+> - [Huawei Partner-developer Campaign 2022 ](https://e-campaign.huawei.com/campaign/partner-developer2022/)
+> - [openGauss Developer Day 2022](https://blog.51cto.com/u_15157671/5931693)
+> - [Global Architect Summit 2022 (Beijing)](https://archsummit.infoq.cn/202303/beijing)
+> - [Open Source Industry Conference 2022](https://mp.weixin.qq.com/s/fiJlS0JdKthhPQLomIt8rg)
 
 > **2021**
 > - [2021 Distributed Database Developer Conference - “Distributed Databases' Proxy and Proxyless Architecture”](https://mp.weixin.qq.com/s/4-ZRAZNWHcaccqgy6ciY4g)
@@ -117,6 +124,9 @@ widget:
 
 
 ###  Articles & Written Contributions
+
+> **2023**
+> - [SphereEx CEO Liang Zhang: Open Source - A Insistence of My Heart, A Model of My Business](https://mp.weixin.qq.com/s/SKG_cU9NuGdA57blAPHfQw)
 
 > **2022**
 > - [Publish on CSDN“What can we do from Database Plus?”](https://mp.weixin.qq.com/s/Sg5sphupAxOPitmiRfy1ww)
