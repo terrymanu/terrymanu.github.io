@@ -126,7 +126,7 @@ widget:
 ###  Articles & Written Contributions
 
 > **2023**
-- [SphereEx CEO Liang Zhang: Open Source - A Insistence of My Heart, A Model of My Business](https://mp.weixin.qq.com/s/SKG_cU9NuGdA57blAPHfQw)
+> - [SphereEx CEO Liang Zhang: Open Source - A Insistence of My Heart, A Model of My Business](https://mp.weixin.qq.com/s/SKG_cU9NuGdA57blAPHfQw)
 
 > **2022**
 > - [Publish on CSDN“What can we do from Database Plus?”](https://mp.weixin.qq.com/s/Sg5sphupAxOPitmiRfy1ww)
